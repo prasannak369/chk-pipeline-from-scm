@@ -1,0 +1,1 @@
+# chk-pipeline-from-scm
